@@ -1,0 +1,17 @@
+"Phrases"
+{
+	"mother infect countdown"
+	{
+		"#format"	"{1:d}"
+		"en"		"<font color='#0066CC'>　　　First Infect in\n</font><font color='#993300'>　　　　　{1}s\n</font><font color='#0066CC'>Mother zombie will Spawn!</font>"
+		"chi"		"<font color='#0066CC'>病毒正在寻找宿主,尸变将在\n</font><font color='#993300'>　　　　　{1}秒\n</font><font color='#0066CC'>后发生，届时母体僵尸出现！</font>"
+		"zho"		"<font color='#0066CC'>病毒正在尋找宿主,感染將在\n</font><font color='#993300'>　　　　　{1}秒\n</font><font color='#0066CC'>後發生，屆時母體喪屍出現！</font>"
+	}
+	
+	"first infected"
+	{
+		"en"		"<font color='#993300'>　Mother Zombie Spawned!\n　\n</font><font color='#0066CC'>　　　Move Fast!"
+		"chi"		"<font color='#993300'>　　　　病毒宿主已经出现\n　\n</font><font color='#0066CC'>积极断后,拒绝贴门,慎用神器,严防贴边!"
+		"zho"		"<font color='#993300'>　　　　喪屍母體已經出現\n　\n</font><font color='#0066CC'>積極守尾,不要貼門,慎用神器,抵制貼邊!"
+	}
+}
