@@ -3,7 +3,7 @@
 	"mother infect countdown"
 	{
 		"#format"	"{1:d}"
-		"en"		"<font color='#0066CC'>　　　First Infect in\n</font><font color='#993300'>　　　　　{1}s\n</font><font color='#0066CC'>Mother zombie will Spawn!</font>"
+		"en"		"<font color='#0066CC'>　　　First Infect in\n</font><font color='#993300'>　　　　　　{1}s\n</font><font color='#0066CC'>Mother zombie will Spawn!</font>"
 		"chi"		"<font color='#0066CC'>病毒正在寻找宿主,尸变将在\n</font><font color='#993300'>　　　　　{1}秒\n</font><font color='#0066CC'>后发生，届时母体僵尸出现！</font>"
 		"zho"		"<font color='#0066CC'>病毒正在尋找宿主,感染將在\n</font><font color='#993300'>　　　　　{1}秒\n</font><font color='#0066CC'>後發生，屆時母體喪屍出現！</font>"
 	}
